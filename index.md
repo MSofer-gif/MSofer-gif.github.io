@@ -1,0 +1,42 @@
+# Hello, I'm Moshe Sofer 👋
+
+I am a B.Sc. Electrical and Electronics Engineering student at Tel Aviv University, with a strong interest in FPGA, RTL design, and ASIC-oriented hardware development. 
+
+I bring hands-on experience in hardware validation and board-level debugging, combined with a solid academic background in digital design, logic, and system-level thinking. Drawing on my leadership experience as a Combat Commander in an elite IDF unit, I thrive in structured, high-pressure environments that demand precision, rapid learning, and accountability.
+
+**Actively seeking a student position in FPGA / ASIC / Digital Hardware teams, where I can grow in RTL development, verification, and low-level hardware design.**
+
+---
+
+## 🛠️ Technical Skills
+* **Programming & HDLs:** Verilog, Python, C
+* **EDA & Design Tools:** Xilinx Vivado, Cadence Virtuoso, MATLAB, Altium Designer
+* **Hardware & Lab:** Logic Analyzer, Oscilloscope, Signal Integrity, DC-DC Power Validation, PCB Debugging
+
+---
+
+## 💼 Experience
+
+### Hardware Intern | MSolutions (2025-2026)
+* Participated in the validation and debugging of USB3, HDMI, and HDBaseT communication boards based on Valens ASICs.
+* Performed hands-on signal integrity, timing analysis, and DC-DC power validation using advanced lab instruments.
+* Analyzed schematics and PCB layouts using Altium Designer, collaborating with hardware and firmware teams on board bring-up and system integration.
+
+---
+
+## 🚀 Academic Projects
+
+### 1. FPGA-Based Stopwatch System (Verilog, RTL)
+* **Description:** Implemented synthesizable RTL modules including adders, counters, FSM control, and debouncing. 
+* **Verification:** Performed functional verification using self-checking testbenches and waveform analysis to ensure robust digital logic operation.
+* [Link to Project Repository] 
+### 2. VLSI Design 8-bit ALU
+* **Description:** Designed a transistor-level ALU featuring a high-speed Kogge-Stone Adder. 
+* **Implementation:** Performed full custom layout design, including strict DRC/LVS verification. Conducted comprehensive timing analysis (Logical Effort, Elmore Delay) to meet critical performance constraints.
+* [Link to Project Repository] 
+---
+
+## 📫 Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/moshe-sofer)
+* [Email](mailto:msoferok@gmail.com)
+* [Download My Full Resume] 
