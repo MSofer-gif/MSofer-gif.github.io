@@ -40,4 +40,4 @@ I bring hands-on experience in hardware validation and board-level debugging, co
 ## 📫 Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/moshe-sofer)
 * [Email](mailto:msoferok@gmail.com)
-* [Download My Full Resume] 
+- [📄 Download My Full Resume](Moshe_Sofer_CV.pdf)
