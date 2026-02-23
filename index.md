@@ -29,7 +29,8 @@ I bring hands-on experience in hardware validation and board-level debugging, co
 ### 1. FPGA-Based Stopwatch System (Verilog, RTL)
 * **Description:** Implemented synthesizable RTL modules including adders, counters, FSM control, and debouncing. 
 * **Verification:** Performed functional verification using self-checking testbenches and waveform analysis to ensure robust digital logic operation.
-* [Link to Project Repository] 
+- [View Full Project Repository](https://github.com/MSofer-gif/FPGA-Stopwatch)
+
 ### 2. VLSI Design 8-bit ALU
 * **Description:** Designed a transistor-level ALU featuring a high-speed Kogge-Stone Adder. 
 * **Implementation:** Performed full custom layout design, including strict DRC/LVS verification. Conducted comprehensive timing analysis (Logical Effort, Elmore Delay) to meet critical performance constraints.
