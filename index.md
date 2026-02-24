@@ -31,10 +31,10 @@ I bring hands-on experience in hardware validation and board-level debugging, co
 * **Verification:** Performed functional verification using self-checking testbenches and waveform analysis to ensure robust digital logic operation.
 - [View Full Project Repository](https://github.com/MSofer-gif/FPGA-Stopwatch)
 
-### 2. VLSI Design 8-bit ALU
+### 2. VLSI Design 4-bit ALU
 * **Description:** Designed a transistor-level ALU featuring a high-speed Kogge-Stone Adder. 
 * **Implementation:** Performed full custom layout design, including strict DRC/LVS verification. Conducted comprehensive timing analysis (Logical Effort, Elmore Delay) to meet critical performance constraints.
-* [Link to Project Repository] 
+- [View Full Project Repository](https://github.com/MSofer-gif/VLSI-4Bit-ALU-and-Ring-Oscillator)
 ---
 
 ## 📫 Let's Connect
