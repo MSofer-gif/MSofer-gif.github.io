@@ -10,7 +10,7 @@ I bring hands-on experience in hardware validation and board-level debugging, co
 
 ## 🛠️ Technical Skills
 * **Programming & HDLs:** Verilog, Python, C
-* **EDA & Design Tools:** Xilinx Vivado, Cadence Virtuoso, MATLAB, Altium Designer
+* **EDA & Design Tools:** Xilinx Vivado, Cadence Virtuoso,LTspice, MATLAB, Altium Designer
 * **Hardware & Lab:** Logic Analyzer, Oscilloscope, Signal Integrity, DC-DC Power Validation, PCB Debugging
 
 ---
