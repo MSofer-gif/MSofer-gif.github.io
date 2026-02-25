@@ -35,6 +35,12 @@ I bring hands-on experience in hardware validation and board-level debugging, co
 * **Description:** Designed a transistor-level ALU featuring a high-speed Kogge-Stone Adder. 
 * **Implementation:** Performed full custom layout design, including strict DRC/LVS verification. Conducted comprehensive timing analysis (Logical Effort, Elmore Delay) to meet critical performance constraints.
 - [View Full Project Repository](https://github.com/MSofer-gif/VLSI-4Bit-ALU-and-Ring-Oscillator)
+
+### 3. SIMP Processor Toolchain (C, Computer Architecture)
+* **Description:** Developed a complete software toolchain from scratch, including an Assembler using a two-pass algorithm and a cycle-accurate Simulator implementing a Fetch-Decode-Execute pipeline.
+* **Implementation:** Simulated low-level hardware components such as a 16-register file, Memory-Mapped I/O, Timer/External Interrupts, and a Disk DMA controller. Validated the architecture by writing and executing custom assembly programs.
+- [View Full Project Repository](https://github.com/MSofer-gif/SIMP-Processor-Toolchain)
+  
 ---
 
 ## 📫 Let's Connect
