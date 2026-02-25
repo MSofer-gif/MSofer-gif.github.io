@@ -40,7 +40,13 @@ I bring hands-on experience in hardware validation and board-level debugging, co
 * **Description:** Developed a complete software toolchain from scratch, including an Assembler using a two-pass algorithm and a cycle-accurate Simulator implementing a Fetch-Decode-Execute pipeline.
 * **Implementation:** Simulated low-level hardware components such as a 16-register file, Memory-Mapped I/O, Timer/External Interrupts, and a Disk DMA controller. Validated the architecture by writing and executing custom assembly programs.
 - [View Full Project Repository](https://github.com/MSofer-gif/SIMP-Processor-Toolchain)
-  
+
+### 4. Multi-Stage CMOS Analog Amplifier Design (LTspice, Analog Circuits)
+* **Description:** Designed a two-stage CMOS amplifier (CS and Differential) based on target specifications derived from ID parameters.
+* **Implementation:** Utilized a current mirror for stable biasing and precisely sized capacitors to engineer specific 40 dB/dec and -20 dB/dec roll-off slopes.
+* **Verification:** Validated performance via LTspice: 38 dB gain, 7 kHz–700 kHz bandwidth, and 11 kΩ output resistance, ensuring all physical and power constraints were met.
+- [View Full Project Repository](https://github.com/MSofer-gif/cmos-multistage-amplifier)
+
 ---
 
 ## 📫 Let's Connect
